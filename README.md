@@ -1,4 +1,5 @@
 ## easyBank landing page
+see the live demo here https://maryan121.github.io/easybank-landingpage/
 ![desktop-preview](https://github.com/Maryan121/easybank-landingpage/assets/88990104/dd8198c6-f177-4f74-8bea-03a6f68f5864)
 
 
@@ -11,4 +12,4 @@
 
 
 
-see the live demo here https://maryan121.github.io/easybank-landingpage/
+
